@@ -1,0 +1,11 @@
+C:\Users\Jonni\OneDrive\Desktop\Stuff\Projects\OnlyfansSearcher-main\OnlyfansSearcher\obj\Debug\OnlyfansSearcher.csproj.AssemblyReference.cache
+C:\Users\Jonni\OneDrive\Desktop\Stuff\Projects\OnlyfansSearcher-main\OnlyfansSearcher\obj\Debug\OnlyfansSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Jonni\OneDrive\Desktop\Stuff\Projects\OnlyfansSearcher-main\OnlyfansSearcher\bin\Debug\OnlyfansSearcher.exe.config
+C:\Users\Jonni\OneDrive\Desktop\Stuff\Projects\OnlyfansSearcher-main\OnlyfansSearcher\bin\Debug\OnlyfansSearcher.exe
+C:\Users\Jonni\OneDrive\Desktop\Stuff\Projects\OnlyfansSearcher-main\OnlyfansSearcher\bin\Debug\OnlyfansSearcher.pdb
+C:\Users\Jonni\OneDrive\Desktop\Stuff\Projects\OnlyfansSearcher-main\OnlyfansSearcher\bin\Debug\Colorful.Console.dll
+C:\Users\Jonni\OneDrive\Desktop\Stuff\Projects\OnlyfansSearcher-main\OnlyfansSearcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonni\OneDrive\Desktop\Stuff\Projects\OnlyfansSearcher-main\OnlyfansSearcher\bin\Debug\xNet.dll
+C:\Users\Jonni\OneDrive\Desktop\Stuff\Projects\OnlyfansSearcher-main\OnlyfansSearcher\obj\Debug\OnlyfansSearcher.csproj.CopyComplete
+C:\Users\Jonni\OneDrive\Desktop\Stuff\Projects\OnlyfansSearcher-main\OnlyfansSearcher\obj\Debug\OnlyfansSearcher.exe
+C:\Users\Jonni\OneDrive\Desktop\Stuff\Projects\OnlyfansSearcher-main\OnlyfansSearcher\obj\Debug\OnlyfansSearcher.pdb
